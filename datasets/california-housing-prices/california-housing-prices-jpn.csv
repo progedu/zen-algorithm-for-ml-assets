@@ -1,4 +1,4 @@
-median_house_value,longitude,latitude,median_age,total_rooms,total_bedrooms,population,households,median_income,ocean_proximity
+住宅価格の中央値,経度,緯度,築年数の中央値,合計部屋数,合計ベッドルーム数,人口,世帯数,収入の中央値,海への近さ
 241700.0,-117.24,32.79,17.0,1149.0,266.0,403.0,228.0,4.1652,NEAR OCEAN
 220300.0,-122.67,38.33,4.0,8072.0,1606.0,4323.0,1475.0,3.9518,<1H OCEAN
 97000.0,-121.44,38.55,46.0,1698.0,383.0,726.0,386.0,2.9821,INLAND
