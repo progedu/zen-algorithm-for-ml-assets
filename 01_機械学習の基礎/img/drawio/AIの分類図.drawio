@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="sHc_wFPXRGP4sv5DglS8" name="Page-1">
+        <mxGraphModel dx="1322" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-2" value="&lt;b&gt;AI = 人工知能&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="54" y="50" width="600" height="33.6" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-12" value="" style="group;fillColor=#B9E0A5;fontColor=#ffffff;strokeColor=#2D7600;container=0;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="54" y="83.6" width="216.67" height="246.40000000000003" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-13" value="" style="group;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="270.66999999999996" y="83.6" width="383.33" height="246.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="54" y="83.6" width="216.67" height="246.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-18" value="エキスパートシステム" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="92.33000000000001" y="90" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-23" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;病気の症状診断システム&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;クイズ応答システム&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="54" y="110" width="200" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-19" value="&lt;b&gt;機械学習&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="394.9363186813187" y="90" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="270.66999999999996" y="83.6" width="383.3257875824175" height="246.39999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-25" value="機械学習" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="412" y="90" width="66" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-29" value="&lt;ul&gt;&lt;li&gt;メールのスパム判定システム&lt;/li&gt;&lt;li&gt;クレジットカードの信用度スコアリング&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="105" width="179" height="98" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-30" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="453" y="143.6" width="201" height="186.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-21" value="" style="group;fillColor=#1BA1E2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" parent="ikODtwr1lbvpF63uvw5W-30" vertex="1" connectable="0">
+                    <mxGeometry width="201.00000000000003" height="186.39999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-20" value="&lt;b&gt;ディープラーニング&lt;br&gt;（深層学習）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="ikODtwr1lbvpF63uvw5W-30" vertex="1">
+                    <mxGeometry x="41.997626830251235" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ikODtwr1lbvpF63uvw5W-31" value="&lt;ul&gt;&lt;li&gt;ChatGPT&lt;/li&gt;&lt;li&gt;顔認識システム&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=none;fontColor=#000000;" parent="ikODtwr1lbvpF63uvw5W-30" vertex="1">
+                    <mxGeometry x="10" y="32.400000000000006" width="148" height="71" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
