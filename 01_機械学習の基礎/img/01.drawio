@@ -1,10 +1,536 @@
-<mxfile host="65bd71144e">
-    <diagram id="nMYO8O43yihmKuVc6ftP" name="Page-1">
-        <mxGraphModel dx="1162" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile host="Electron" modified="2025-01-19T01:08:30.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="k4UflcdLyJgd-UZa_Xba" version="22.1.16" type="device" pages="5">
+  <diagram id="SAteuSbjzOXFyaOjcu4f" name="AIの分類図">
+    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EmHXytdvfBIxQX4NLVem-1" value="&lt;b&gt;AI = 人工知能&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;container=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="50" width="600" height="33.6" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-2" value="" style="group;fillColor=#B9E0A5;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="54" y="83.6" width="216.67" height="246.40000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-3" value="" style="group;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270.66999999999996" y="83.6" width="383.33" height="246.4" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;container=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="83.6" width="216.67" height="246.4" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-5" value="エキスパートシステム" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="92.33000000000001" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-6" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;病気の症状診断システム&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;クイズ応答システム&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="110" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-7" value="&lt;b&gt;機械学習&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="394.9363186813187" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270.66999999999996" y="83.6" width="383.3257875824175" height="246.39999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-9" value="機械学習" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="412" y="90" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-10" value="&lt;ul&gt;&lt;li&gt;メールのスパム判定システム&lt;/li&gt;&lt;li&gt;クレジットカードの信用度スコアリング&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="105" width="179" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="453" y="143.6" width="201" height="186.4" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-12" value="" style="group;fillColor=#1BA1E2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" connectable="0" parent="EmHXytdvfBIxQX4NLVem-11">
+          <mxGeometry width="201.00000000000003" height="186.39999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-13" value="&lt;b&gt;ディープラーニング&lt;br&gt;（深層学習）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="EmHXytdvfBIxQX4NLVem-11">
+          <mxGeometry x="41.997626830251235" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EmHXytdvfBIxQX4NLVem-14" value="&lt;ul&gt;&lt;li&gt;ChatGPT&lt;/li&gt;&lt;li&gt;顔認識システム&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=none;fontColor=#000000;" vertex="1" parent="EmHXytdvfBIxQX4NLVem-11">
+          <mxGeometry x="10" y="32.400000000000006" width="148" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rVr1Fh3kVePzGlP70fXB" name="機械学習のフェーズ">
+    <mxGraphModel dx="1077" dy="-542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cS3TcicukboXxyyhBe32-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" edge="1" parent="1" source="cS3TcicukboXxyyhBe32-2" target="cS3TcicukboXxyyhBe32-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241.5" y="1440" />
+              <mxPoint x="241.5" y="1352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-2" value="訓練データ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.620714911099185;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="116.5" y="1397" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" edge="1" parent="1" source="cS3TcicukboXxyyhBe32-4" target="cS3TcicukboXxyyhBe32-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-4" value="" style="sketch=0;outlineConnect=0;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="1272" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-5" value="" style="shape=mxgraph.signs.healthcare.brain;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="1321" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-6" value="アルゴリズム" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="1242" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-7" value="学習済みモデル" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="1289" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-8" value="学習" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="1322" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.044;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" edge="1" parent="1" source="cS3TcicukboXxyyhBe32-8" target="cS3TcicukboXxyyhBe32-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391.5" y="1426" as="sourcePoint" />
+            <mxPoint x="421.5" y="1392" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" edge="1" parent="1" source="cS3TcicukboXxyyhBe32-11" target="cS3TcicukboXxyyhBe32-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-11" value="" style="shape=mxgraph.signs.healthcare.brain;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1609" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-12" value="学習済みモデル" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="1576" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-13" value="学習フェーズ" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1197" width="154" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-14" value="推論フェーズ" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1543" width="154" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" edge="1" parent="1" source="cS3TcicukboXxyyhBe32-16" target="cS3TcicukboXxyyhBe32-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-16" value="推論用データ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="1611" width="112" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="cS3TcicukboXxyyhBe32-17" value="予測結果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="1614" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X3nVbHdRN-2LYilL56jI" name="文系vs理系_表">
+    <mxGraphModel dx="1077" dy="-542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RE4EI9JnNqmoFDb053j8-1" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67" y="1312" width="270" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry width="270" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-3" value="文系科目の点数" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#4D9900;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RE4EI9JnNqmoFDb053j8-2">
+          <mxGeometry width="91" height="33" as="geometry">
+            <mxRectangle width="91" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-4" value="文系科目の点数" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#4D9900;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RE4EI9JnNqmoFDb053j8-2">
+          <mxGeometry x="91" width="90" height="33" as="geometry">
+            <mxRectangle width="90" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-5" value="ラベル" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#4D9900;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RE4EI9JnNqmoFDb053j8-2">
+          <mxGeometry x="181" width="89" height="33" as="geometry">
+            <mxRectangle width="89" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry y="33" width="270" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-7" value="87" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-6">
+          <mxGeometry width="91" height="31" as="geometry">
+            <mxRectangle width="91" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-8" value="230" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-6">
+          <mxGeometry x="91" width="90" height="31" as="geometry">
+            <mxRectangle width="90" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-9" value="文系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-6">
+          <mxGeometry x="181" width="89" height="31" as="geometry">
+            <mxRectangle width="89" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry y="64" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-11" value="370" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-10">
+          <mxGeometry width="91" height="30" as="geometry">
+            <mxRectangle width="91" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-12" value="209" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-10">
+          <mxGeometry x="91" width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-13" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-10">
+          <mxGeometry x="181" width="89" height="30" as="geometry">
+            <mxRectangle width="89" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-14" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry y="94" width="270" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-15" value="303" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-14">
+          <mxGeometry width="91" height="32" as="geometry">
+            <mxRectangle width="91" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-16" value="168" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-14">
+          <mxGeometry x="91" width="90" height="32" as="geometry">
+            <mxRectangle width="90" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-17" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-14">
+          <mxGeometry x="181" width="89" height="32" as="geometry">
+            <mxRectangle width="89" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry y="126" width="270" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-19" value="137" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-18">
+          <mxGeometry width="91" height="31" as="geometry">
+            <mxRectangle width="91" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-20" value="90" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-18">
+          <mxGeometry x="91" width="90" height="31" as="geometry">
+            <mxRectangle width="90" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-21" value="文系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-18">
+          <mxGeometry x="181" width="89" height="31" as="geometry">
+            <mxRectangle width="89" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry y="157" width="270" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-23" value="234" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-22">
+          <mxGeometry width="91" height="33" as="geometry">
+            <mxRectangle width="91" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-24" value="95" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-22">
+          <mxGeometry x="91" width="90" height="33" as="geometry">
+            <mxRectangle width="90" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-25" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-22">
+          <mxGeometry x="181" width="89" height="33" as="geometry">
+            <mxRectangle width="89" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-1">
+          <mxGeometry y="190" width="270" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-27" value="349" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-26">
+          <mxGeometry width="91" height="31" as="geometry">
+            <mxRectangle width="91" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-28" value="66" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-26">
+          <mxGeometry x="91" width="90" height="31" as="geometry">
+            <mxRectangle width="90" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-29" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-26">
+          <mxGeometry x="181" width="89" height="31" as="geometry">
+            <mxRectangle width="89" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-30" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="420.75" y="1334" width="270" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-32" value="文系科目の点数" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#808080;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-31">
+          <mxGeometry width="91" height="26" as="geometry">
+            <mxRectangle width="91" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-33" value="文系科目の点数" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#808080;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-31">
+          <mxGeometry x="91" width="90" height="26" as="geometry">
+            <mxRectangle width="90" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-34" value="ラベル" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#808080;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-31">
+          <mxGeometry x="181" width="89" height="26" as="geometry">
+            <mxRectangle width="89" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry y="26" width="270" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-36" value="87" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-35">
+          <mxGeometry width="91" height="31" as="geometry">
+            <mxRectangle width="91" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-37" value="230" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-35">
+          <mxGeometry x="91" width="90" height="31" as="geometry">
+            <mxRectangle width="90" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-38" value="文系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-35">
+          <mxGeometry x="181" width="89" height="31" as="geometry">
+            <mxRectangle width="89" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry y="57" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-40" value="370" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-39">
+          <mxGeometry width="91" height="30" as="geometry">
+            <mxRectangle width="91" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-41" value="209" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-39">
+          <mxGeometry x="91" width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-42" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-39">
+          <mxGeometry x="181" width="89" height="30" as="geometry">
+            <mxRectangle width="89" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-43" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry y="87" width="270" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-44" value="303" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-43">
+          <mxGeometry width="91" height="32" as="geometry">
+            <mxRectangle width="91" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-45" value="168" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-43">
+          <mxGeometry x="91" width="90" height="32" as="geometry">
+            <mxRectangle width="90" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-46" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-43">
+          <mxGeometry x="181" width="89" height="32" as="geometry">
+            <mxRectangle width="89" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-47" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry y="119" width="270" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-48" value="137" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-47">
+          <mxGeometry width="91" height="31" as="geometry">
+            <mxRectangle width="91" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-49" value="90" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-47">
+          <mxGeometry x="91" width="90" height="31" as="geometry">
+            <mxRectangle width="90" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-50" value="文系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-47">
+          <mxGeometry x="181" width="89" height="31" as="geometry">
+            <mxRectangle width="89" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-51" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry y="150" width="270" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-52" value="234" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-51">
+          <mxGeometry width="91" height="33" as="geometry">
+            <mxRectangle width="91" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-53" value="95" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-51">
+          <mxGeometry x="91" width="90" height="33" as="geometry">
+            <mxRectangle width="90" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-54" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-51">
+          <mxGeometry x="181" width="89" height="33" as="geometry">
+            <mxRectangle width="89" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-30">
+          <mxGeometry y="183" width="270" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-56" value="349" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-55">
+          <mxGeometry width="91" height="31" as="geometry">
+            <mxRectangle width="91" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-57" value="66" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-55">
+          <mxGeometry x="91" width="90" height="31" as="geometry">
+            <mxRectangle width="90" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-58" value="理系" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="RE4EI9JnNqmoFDb053j8-55">
+          <mxGeometry x="181" width="89" height="31" as="geometry">
+            <mxRectangle width="89" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-59" value="特徴量：Feature" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="1290" width="182.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RE4EI9JnNqmoFDb053j8-60" value="目的変数" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="604.25" y="1290" width="91.75" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="50F1E-E_tZisA0kP_O6W" name="文系vs理系">
+    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-1" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=0;spacing=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90.00000000000011" y="713.0000000000002" as="sourcePoint" />
+            <mxPoint x="90.00000000000011" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-2" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90.00000000000011" y="713.0000000000002" as="sourcePoint" />
+            <mxPoint x="309" y="713.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-3" value="文系科目の点数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="489.9999999999999" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-4" value="理系科目の点数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="719.0000000000002" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="201" y="641.3557692307693" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-6" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="648" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="592.4615384615385" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="235" y="608.9984615384616" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="261" y="585.9984615384616" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="264" y="655.9984615384616" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-11" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;dashed=1;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="138" y="711.6799999999998" as="sourcePoint" />
+            <mxPoint x="303" y="538.6800000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="179" y="696.68" />
+              <mxPoint x="190" y="673.68" />
+              <mxPoint x="187" y="645.68" />
+              <mxPoint x="205" y="547.68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-12" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=0;spacing=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="714.8200000000004" as="sourcePoint" />
+            <mxPoint x="448" y="522.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-13" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="714.8200000000004" as="sourcePoint" />
+            <mxPoint x="667" y="714.8200000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-14" value="文系科目の点数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398" y="491.81999999999994" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-15" value="理系科目の点数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="588" y="720.8200000000002" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-16" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="559" y="643.1757692307693" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-17" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="508" y="649.82" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="478" y="594.2815384615385" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-19" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="593" y="610.8184615384616" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="619" y="587.8184615384616" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-21" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="622" y="657.8184615384616" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-22" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;dashed=1;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496.0000000000002" y="713.5" as="sourcePoint" />
+            <mxPoint x="660.9999999999998" y="540.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="537" y="698.4999999999999" />
+              <mxPoint x="548" y="675.5" />
+              <mxPoint x="545" y="647.5" />
+              <mxPoint x="563" y="549.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-23" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#666666;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="556" y="608.4615384615386" width="14" height="20.64423076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-24" value="未知のデータ" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="517.75" y="589.32" width="90.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-25" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="551" y="694" width="17.5" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="OitpCGGOCiSFLZoVBhdr-26" value="&lt;b&gt;境界の右側にいるため「理系」と予測&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="452" y="788.0000000000002" width="222" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nMYO8O43yihmKuVc6ftP" name="Page-1">
+    <mxGraphModel dx="2412" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-1" value="1. ビジネス理解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="111" y="228" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-2" value="2. データ収集・加工・理解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="228" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-3" value="3. モデルの訓練・評価" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="228" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-4" value="4. モデルのデプロイ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="630" y="228" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-5" value="5. モデルの運用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="780" y="228" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-7" value="第1回 機械学習の基礎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O6DSH1Oaw7o0DgMhcRog-8" value="第1回 機械学習の基礎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="350" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>
