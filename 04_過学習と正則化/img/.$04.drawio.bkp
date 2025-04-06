@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2025-01-18T01:28:03.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="WozZGzi-JyAzS8p3jr_m" version="22.1.16" type="device" pages="11">
+<mxfile host="Electron" modified="2025-04-06T02:35:57.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="3IZBWKlbivA3yoT_xTwH" version="22.1.16" type="device" pages="11">
   <diagram id="UeyO9dy6ASwMTQlx0i1I" name="Bias-Variance">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DfS5IE-R1HOBmq-FiiK6" name="ハイパラ探索">
-    <mxGraphModel dx="2389" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,7 +500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AnKAy6DeRk7PnsT1Z1i4" name="距離">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="625" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -585,7 +585,7 @@
             <mxPoint x="400" y="561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AIspKKS8gDmcdSzziFbK-22" value="`L_1= |2-5| + |1-4| =|6|`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="AIspKKS8gDmcdSzziFbK-22" value="`L_1= |2-5| + |1-4| =|6|`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="417" y="548" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AIspKKS8gDmcdSzziFbK-23" value="`y`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -636,7 +636,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q3zOLZFe-aOpJmR9JJU5" name="L2の特徴を上から">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3905" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,10 +679,10 @@
         <mxCell id="DdlkRQy8UorK7COOvdB2-19" value="&lt;b&gt;1.98&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1010" y="581" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fjL7GM6QQ1nGBOFnJpH--1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="fjL7GM6QQ1nGBOFnJpH--1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1110" y="200" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="60cMS5yBpDBMjUB5Woxc-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="60cMS5yBpDBMjUB5Woxc-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="886" y="202" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -742,7 +742,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QyIiEBy2Vj8B5JOC1rK8" name="損失関数楕円形">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,29 +758,29 @@
         <mxCell id="ml0EqIDKkrbohepZ5x-D-5" value="上から見た図" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1160" y="250" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hyCdO9AgAGYu6AvTCF11-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="hyCdO9AgAGYu6AvTCF11-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="814" y="208.29000000000002" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hyCdO9AgAGYu6AvTCF11-2" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="hyCdO9AgAGYu6AvTCF11-2" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="179" y="205.00000000000003" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_koF_Q6OjsWZXrGHA_a-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;rotation=90;" vertex="1" parent="1">
+        <mxCell id="s_koF_Q6OjsWZXrGHA_a-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="173" y="656" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_koF_Q6OjsWZXrGHA_a-2" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;rotation=-20;" vertex="1" parent="1">
+        <mxCell id="s_koF_Q6OjsWZXrGHA_a-2" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;rotation=-20;" parent="1" vertex="1">
           <mxGeometry x="980" y="869" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_koF_Q6OjsWZXrGHA_a-3" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="s_koF_Q6OjsWZXrGHA_a-3" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="944" y="208.29000000000002" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_koF_Q6OjsWZXrGHA_a-4" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="s_koF_Q6OjsWZXrGHA_a-4" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="57" y="205" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="損失関数楕円形で点の移動" id="MAu4Lxuhyic1nZxiT4Oe">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yDbjbxjjpv1LqlViRWGk-0" />
         <mxCell id="yDbjbxjjpv1LqlViRWGk-1" parent="yDbjbxjjpv1LqlViRWGk-0" />
@@ -814,17 +814,17 @@
             <mxPoint x="487" y="557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1kJXRyMd6kLqBEbgvJr7-0" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="yDbjbxjjpv1LqlViRWGk-1">
+        <mxCell id="1kJXRyMd6kLqBEbgvJr7-0" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="yDbjbxjjpv1LqlViRWGk-1" vertex="1">
           <mxGeometry x="174" y="186.00000000000003" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1kJXRyMd6kLqBEbgvJr7-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="yDbjbxjjpv1LqlViRWGk-1">
+        <mxCell id="1kJXRyMd6kLqBEbgvJr7-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="yDbjbxjjpv1LqlViRWGk-1" vertex="1">
           <mxGeometry x="44" y="185.00000000000003" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="4KnZK_W9zWRKrrXVX8B3" name="L1の特徴を横から">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -861,17 +861,17 @@
         <mxCell id="iXVEb2OlGzTJdzuE7z1d-4" value="λ=3の最適な点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="511.5" y="672" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h4iUEDAHj3xaVJMDEK8K-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="h4iUEDAHj3xaVJMDEK8K-1" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="764" y="312" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h4iUEDAHj3xaVJMDEK8K-2" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="h4iUEDAHj3xaVJMDEK8K-2" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFFFFF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="588" y="311" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZzSd28ND7D_56ng17aRS" name="L1の特徴を上から">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -927,7 +927,7 @@
           <mxGeometry x="66.33000000000004" y="277.40000000000003" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2BDIb8iZ0yQ6Xxs0lHIX-6" value="λ=3の最適な点:&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;(1.5,0.3,3.0)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="4Vwp6jjNbWvYCiVoGFg--12" vertex="1">
-          <mxGeometry x="114" y="240" width="120" height="30" as="geometry" />
+          <mxGeometry x="104" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k6FNP8pboH-qzNY4Cn-z-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#009900;strokeColor=#82b366;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="369.784" y="597.4000000000001" width="20" height="20" as="geometry" />
