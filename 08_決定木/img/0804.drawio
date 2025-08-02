@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-07-22T05:36:25.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Rw-Qcmd9D4dwBW2U4oXa" version="22.1.16" type="device" pages="2">
+<mxfile host="Electron" modified="2025-07-22T06:56:07.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="TZ7gTM6X6EsKU3bGa0nx" version="22.1.16" type="device" pages="2">
   <diagram id="iilTE-6u7o3JyAwTfIm6" name="pruning">
     <mxGraphModel dx="2077" dy="3064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1686,9 +1686,6 @@
         <mxCell id="BcmDtEeIITtBM0eg5CuP-78" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="3233.8399729948105" y="-2164.7756465803313" width="3.222441222148738" height="3.21740428714324" as="geometry" />
         </mxCell>
-        <mxCell id="BcmDtEeIITtBM0eg5CuP-79" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="3275.86" y="-1911.27" width="214.14" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BcmDtEeIITtBM0eg5CuP-81" value="条件A&lt;br&gt;データ数=32" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="3873.59" y="-2057.63" width="90" height="39.09090909090909" as="geometry" />
         </mxCell>
@@ -1808,9 +1805,6 @@
         </mxCell>
         <mxCell id="BcmDtEeIITtBM0eg5CuP-135" value="サブツリー4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2958.98" y="-1809.19" width="190.73" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BcmDtEeIITtBM0eg5CuP-136" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="-1620.83" width="414.12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BcmDtEeIITtBM0eg5CuP-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3270" y="-1809.19" width="425.73" height="260.18" as="geometry" />
